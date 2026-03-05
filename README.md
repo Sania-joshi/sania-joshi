@@ -1,5 +1,17 @@
-# 💫 About Me:
-Solving Data Structures & Algorithms on LeetCode 🧩<br><br>Currently on a 20 day streak with 100+ problems solved!<br><br>Focusing on AI/ML & NLP concepts alongside DSA 🚀Frontend web apps, AI/ML projects, NLP tools, or anything <br><br>that combines creativity with code! Open to hackathons too ⚡Advanced AI/ML model optimization and production-level <br><br>full stack development best practices AI/ML · NLP · Data Structures & Algorithms (100+ LeetCode 🧩) <br><br>· Advanced React patterns · Full Stack Development React.js · Firebase · GitHub Actions · CSS animations · <br><br>Building aesthetic web apps · Credit Card Fraud Detection ML · <br><br>Ship Arrival Time Prediction · DSA problem solving I built STUDYAURA — a study timer with a Princess 👑 and <br><br>Ryuu ⚡ mode — because plain timers had zero motivation. <br><br>Now I actually enjoy studying! 😄
+# 💫 About Me
+🔭 I'm currently working on:
+Solving DSA on LeetCode 🧩 · 100+ Problems · 20 Day Streak 🔥
+👯 I'm looking to collaborate on:
+Frontend web apps · AI/ML projects · NLP tools · Hackathons ⚡
+🤝 I'm looking for help with:
+Advanced AI/ML model optimization & production-level 
+full stack development best practices
+🌱 I'm currently learning:
+AI/ML · NLP · DSA · Advanced React patterns · Full Stack Dev
+⚡ Fun fact:
+I built a study timer with Princess 👑 & Ryuu ⚡ mode —
+because plain timers had zero motivation.
+Now I actually enjoy studying! 😄
 
 
 ## 🌐 Socials:
